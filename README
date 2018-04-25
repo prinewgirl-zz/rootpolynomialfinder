@@ -1,0 +1,16 @@
+INSTALLING:
+from the terminal, just type make and then return.
+
+USAGE:
+roots file
+
+The file must be as follows:
+
+N
+ar_1 ai_1
+...
+ar_(N+1) ai_(N+1)
+
+in the first line N is the highest degree of its monomials, 
+the first number ar_j on the jth line is the real part and the second 
+number ai_j the imaginary one.
